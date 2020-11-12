@@ -1,2 +1,3 @@
 # 10ImageList_13AndroidStudio
-mmmm
+圖片陣列示範
+画像アレイデモンストレーション
